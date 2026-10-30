@@ -9,7 +9,7 @@ const Footer = () => {
       {/* Social Media Icons */}
       <div className="flex items-center justify-center gap-1.5 mb-2">
           <a 
-            href="https://www.facebook.com/target/" 
+            href="https://www.facebook.com/Chilis/" 
             target="_blank"
             rel="noopener noreferrer"
             className="w-7 h-7 rounded-full bg-[#22235b] hover:bg-[#22235b] flex items-center justify-center text-white hover:scale-110 transition-transform duration-300"
@@ -18,7 +18,7 @@ const Footer = () => {
             <Facebook className="w-3.5 h-3.5 fill-current" />
           </a>
           <a 
-            href="https://www.instagram.com/target/" 
+            href="https://www.instagram.com/chilis/?hl=en" 
             target="_blank"
             rel="noopener noreferrer"
             className="w-7 h-7 rounded-full bg-[#22235b] hover:bg-[#22235b] flex items-center justify-center text-white hover:scale-110 transition-transform duration-300"
@@ -27,7 +27,7 @@ const Footer = () => {
             <Instagram className="w-3.5 h-3.5" />
           </a>
           <a 
-            href="https://www.linkedin.com/company/target" 
+            href="https://www.linkedin.com/company/chili's" 
             target="_blank"
             rel="noopener noreferrer"
             className="w-7 h-7 rounded-full bg-[#22235b] hover:bg-[#22235b] flex items-center justify-center text-white hover:scale-110 transition-transform duration-300"
